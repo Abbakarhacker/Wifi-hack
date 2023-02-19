@@ -21,11 +21,11 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security or ethical hacker T
 
 1) sudo apt-get update && apt-get install git
 
-2) sudo git clone https://github.com/ankit0183/Wifi-Hacking
+2) sudo git clone https://github.com/Abbakarhacker/Wifi-hack.git
 
-3) cd Wifi-Hacking/
+3) cd Wifi-hack/
 
-4) sudo python3 Wifi-Hacking.py
+4) sudo python3 Wifi-hacking.py
 
 ```
 
